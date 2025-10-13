@@ -1,0 +1,22 @@
+# adapter-transformers
+adapters==1.0.1
+transformers==4.45.2
+wandb
+torch
+numpy
+pandas
+datasets
+scikit-learn
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+googleapis-common-protos
+evaluate
+accelerate
+sentencepiece
+mmengine
+fairscale
+fire
+timm
+tensorboard
