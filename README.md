@@ -1,6 +1,6 @@
 # CogSteer: Cognition-Inspired Selective Layer Intervention for LLMs
 
-Official implementation of [CogSteer: Cognition-Inspired Selective Layer Intervention for Efficiently Steering Large Language Models](https://arxiv.org/abs/2410.17714)
+Official implementation of [CogSteer: Cognition-Inspired Selective Layer Intervention for Efficiently Steering Large Language Models](https://aclanthology.org/2025.findings-acl.1308/)
 
 ## 💻 Environment Setup
 
@@ -109,9 +109,7 @@ If you find our work useful, please consider starring the repository and citing 
     author = "Wang, Xintong and Pan, Jingheng and Ding, Liang and Wang, Longyue and Jiang, Longqin and Li, Xingshan and Biemann, Chris",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
     year = "2025",
-    publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.findings-acl.1308/",
-    doi = "10.18653/v1/2025.findings-acl.1308",
     pages = "25507--25522"
 }
 ```
